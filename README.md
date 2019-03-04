@@ -1,6 +1,6 @@
 # elte_tsp_2019s_htel
 Team project for course tools for software project, ELTE, Spring 2019
-## 1. Open up git besh and see what files are there
+## 1. Open up git bash and see what files are there
  ls 
 ## 2. create a new file by using the command touch.
 ### touch filename
