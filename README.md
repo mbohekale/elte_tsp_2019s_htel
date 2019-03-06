@@ -11,6 +11,7 @@ Team project for course tools for software project, ELTE, Spring 2019
 ## 5. stage the file for committing
 ### git add -m "new modification"
 ### git add -A
+### git commit -m "file is committed"
 ## 6. run the status again
 ### git status
 ## 7.check the log to see if the commit is there
