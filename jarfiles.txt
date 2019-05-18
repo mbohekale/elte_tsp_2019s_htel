@@ -1,0 +1,4 @@
+<jar destfile = "${web.dir}/lib/util.jar"
+   basedir = "${build.dir}/classes"
+   includes = "faxapp/util/**"
+   excludes = "**/Test.class" />
